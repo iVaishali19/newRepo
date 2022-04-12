@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SaaSProductsImport</id>
+    <version>1.0.0</version>
+    <authors>SaaSProductsImport</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\obj\DotnetToolSettings.xml" target="tools\net5.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.dll" target="tools\net5.0\any\SaaSProductsImport.dll" />
+    <file src="C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.deps.json" target="tools\net5.0\any\SaaSProductsImport.deps.json" />
+    <file src="C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.runtimeconfig.json" target="tools\net5.0\any\SaaSProductsImport.runtimeconfig.json" />
+    <file src="C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.pdb" target="tools\net5.0\any\SaaSProductsImport.pdb" />
+    <file src="C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\YamlDotNet.dll" target="tools\net5.0\any\YamlDotNet.dll" />
+  </files>
+</package>

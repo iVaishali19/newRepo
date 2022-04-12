@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SaaSProductsImport/1.0.0": {
+        "dependencies": {
+          "YamlDotNet": "9.1.4-fix-issues-553-562-0001"
+        },
+        "runtime": {
+          "SaaSProductsImport.dll": {}
+        }
+      },
+      "YamlDotNet/9.1.4-fix-issues-553-562-0001": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.1.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaaSProductsImport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/9.1.4-fix-issues-553-562-0001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FGK9NRBAEewjPK2TMI/HTnK6sOJeYgXtPXWTcCgh5h7xw/J0Rs7D7/8Vi3rWGFzten/sC6eYSqIkRZeYT0c5Ag==",
+      "path": "yamldotnet/9.1.4-fix-issues-553-562-0001",
+      "hashPath": "yamldotnet.9.1.4-fix-issues-553-562-0001.nupkg.sha512"
+    }
+  }
+}

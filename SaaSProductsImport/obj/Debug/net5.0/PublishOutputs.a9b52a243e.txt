@@ -1,0 +1,6 @@
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.exe
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.dll
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.deps.json
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.runtimeconfig.json
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\SaaSProductsImport.pdb
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\publish\YamlDotNet.dll

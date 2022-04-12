@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBO0SQkeNieQ74BCGF1HLj5XIl4ITV9F/HVygycOurkuj0dMrin6QOVeuNuQf5/rFz+AdoNVZuU1TitaJdSmeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vaishali\\source\\repos\\SaaSProductsImport\\SaaSProductsImport\\SaaSProductsImport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaishali\\.nuget\\packages\\yamldotnet\\9.1.4-fix-issues-553-562-0001\\yamldotnet.9.1.4-fix-issues-553-562-0001.nupkg.sha512"
+  ],
+  "logs": []
+}
