@@ -49,9 +49,9 @@ As per undestanding from the document there is currently 2 sources (capterra and
   C:\Users\Vaishali\source\repo\SaaSProductsImport\SaaSProductsImport>dotnet run -- .\feed-products\capterra.yaml --source capterra
   written unit case to check if the result of deserialze yaml file data stored in list contains data
   
-  For more modifications can work on source -> softwareadvice assuming file type is in json format or xml or any other type 
-  can deserialze it and can be stored in collection object
-  writing more test case using different test libararies to check file path, data/content type 
+  For more modifications can work on source -> softwareadvice assuming file type is in json format or xml or any other type for this source  
+  Checking file type (i.e. file extension) and wrting code to desrialze it for diffrent format and store data in collection object
+  writing more test cases using different test libararies to check file path, data/content type associated with any model 
   
   
   For Database check its Readme answered with querires
