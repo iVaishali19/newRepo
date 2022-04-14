@@ -5,6 +5,12 @@ C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\n
 C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\SaaSProductsImport.dll
 C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\ref\SaaSProductsImport.dll
 C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\SaaSProductsImport.pdb
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\System.CommandLine.dll
 C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\bin\Debug\net5.0\YamlDotNet.dll
 C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\obj\Debug\net5.0\SaaSProductsImport.csproj.AssemblyReference.cache
 C:\Users\Vaishali\source\repos\SaaSProductsImport\SaaSProductsImport\obj\Debug\net5.0\SaaSProductsImport.GeneratedMSBuildEditorConfig.editorconfig
